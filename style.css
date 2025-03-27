@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+h1, h2 {
+    color: #333;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+label {
+    display: inline-block;
+    width: 100px;
+}
+input {
+    padding: 5px;
+    width: 200px;
+}
+button {
+    padding: 5px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+th, td {
+    border: 2px solid #000; /* Bold border */
+    padding: 8px;
+    text-align: left;
+    font-weight: bold; /* Bold text */
+}
+th {
+    background-color: #f2f2f2;
+}
+hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.action-buttons {
+    white-space: nowrap;
+}
+.action-buttons button {
+    margin: 0 5px;
+    padding: 3px 8px;
+}
+.footer {
+    margin-top: 20px;
+}
+select {
+    padding: 5px;
+}
